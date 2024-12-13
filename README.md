@@ -1,2 +1,2 @@
 # Reinforcement-Learning-MVA
-Cours de reinforcement learning MVA &amp;nnée 2024-2025
+Cours de reinforcement learning MVA année 2024-2025
